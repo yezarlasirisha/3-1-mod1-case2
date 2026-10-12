@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">LLM Evaluation Study</string>
+
+    <string name="evaluate">Evaluate</string>
+
+    <string name="generated_response">
+        Generated Response
+    </string>
+
+    <string name="evaluation_metrics">
+        Evaluation Metrics
+    </string>
+
+    <string name="prompt_hint">
+        Enter your prompt here
+    </string>
+
+    <string name="select_model">
+        Select Model
+    </string>
+
+</resources>
